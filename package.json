@@ -16,6 +16,6 @@
     "tslint": "^6.1.0",
     "typescript": "^3.8.3",
     "lodash": ">=4.17.21",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   }
 }
